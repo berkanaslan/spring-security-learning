@@ -10,12 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a588af9b-3d00-48a7-b1cd-f8848438425a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/berkanaslan/springsecurityexample/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/berkanaslan/springsecurityexample/config/SecurityWebApplicationInitializer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-security-learning/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-learning/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-security-learning/WEB-INF/view/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +51,11 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.30694276" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Berkan\spring-security-learning\src\main\webapp\WEB-INF\view" />
       <recent name="C:\Users\Berkan\spring-security-learning" />
     </key>
   </component>
@@ -275,7 +273,9 @@
       <workItem from="1616354179167" duration="1702000" />
       <workItem from="1616355922948" duration="349000" />
       <workItem from="1616356290253" duration="273000" />
-      <workItem from="1616356583875" duration="307000" />
+      <workItem from="1616356583875" duration="629000" />
+      <workItem from="1616524619885" duration="4035000" />
+      <workItem from="1616609373056" duration="3123000" />
     </task>
     <servers />
   </component>
