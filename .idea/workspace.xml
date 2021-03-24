@@ -10,12 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a588af9b-3d00-48a7-b1cd-f8848438425a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/berkanaslan/springsecurityexample/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/berkanaslan/springsecurityexample/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berkanaslan/springsecurityexample/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/berkanaslan/springsecurityexample/config/SpringSecurityExampleConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berkanaslan/springsecurityexample/config/SpringSecurityExampleConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springsecuritydemo/WEB-INF/view/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-learning/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-learning/WEB-INF/view/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-learning/WEB-INF/view/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-learning/WEB-INF/view/login.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,7 +265,7 @@
       <workItem from="1616356290253" duration="273000" />
       <workItem from="1616356583875" duration="629000" />
       <workItem from="1616524619885" duration="4035000" />
-      <workItem from="1616609373056" duration="1007000" />
+      <workItem from="1616609373056" duration="1727000" />
     </task>
     <servers />
   </component>
