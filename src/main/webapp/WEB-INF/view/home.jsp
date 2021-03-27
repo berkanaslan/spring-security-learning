@@ -25,17 +25,21 @@ Welcome to the our company home page!
 <hr>
 
 <!-- Add a link to point to /leaders this is for managers -->
-<p>
-    <a href="${pageContext.request.contextPath}/leaders">LeaderShip Meeting</a>
-    (Only for Manager peeps)
-</p>
+<security:authorize access="hasRole('MANAGER')">
+    <p>
+        <a href="${pageContext.request.contextPath}/leaders">LeaderShip Meeting</a>
+        (Only for Manager peeps)
+    </p>
+</security:authorize>
 
 <!-- Add a link to point to /leaders this is for admins -->
-<p>
-    <a href="${pageContext.request.contextPath}/systems">IT Systems</a>
-    (Only for Admin peeps)
-</p>
+<security:authorize access="hasRole('ADMIN')">
 
+    <p>
+        <a href="${pageContext.request.contextPath}/systems">IT Systems</a>
+        (Only for Admin peeps)
+    </p>
+</security:authorize>
 <hr>
 
 </body>
