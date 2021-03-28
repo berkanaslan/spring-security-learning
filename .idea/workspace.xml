@@ -10,9 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a588af9b-3d00-48a7-b1cd-f8848438425a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/persistence-mysql.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-security-learning/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-learning/WEB-INF/view/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/berkanaslan/springsecurityexample/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berkanaslan/springsecurityexample/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/berkanaslan/springsecurityexample/config/SpringSecurityExampleConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berkanaslan/springsecurityexample/config/SpringSecurityExampleConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.30694276" />
@@ -56,6 +58,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Berkan\spring-security-learning\src\main" />
       <recent name="C:\Users\Berkan\spring-security-learning\src\main\webapp\WEB-INF\view" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -84,13 +87,15 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -278,7 +283,8 @@
       <workItem from="1616356583875" duration="629000" />
       <workItem from="1616524619885" duration="4035000" />
       <workItem from="1616609373056" duration="3753000" />
-      <workItem from="1616876446754" duration="2585000" />
+      <workItem from="1616876446754" duration="3043000" />
+      <workItem from="1616916642837" duration="2784000" />
     </task>
     <servers />
   </component>

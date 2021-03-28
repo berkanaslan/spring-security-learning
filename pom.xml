@@ -13,8 +13,8 @@
     <url>http://berkanaslan.com</url>
 
     <properties>
-        <springframework.version>4.3.9.RELEASE</springframework.version>
-        <springsecurity.version>4.2.3.RELEASE</springsecurity.version>
+        <springframework.version>5.3.5</springframework.version>
+        <springsecurity.version>5.4.5</springsecurity.version>
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -74,7 +74,17 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.45</version>
+        </dependency>
 
+        <dependency>
+            <groupId>com.mchange</groupId>
+            <artifactId>c3p0</artifactId>
+            <version>0.9.5.2</version>
+        </dependency>
 
     </dependencies>
 
